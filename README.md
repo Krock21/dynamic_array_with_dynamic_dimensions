@@ -18,7 +18,7 @@ Then, with D = 2 we have arr =
 
 And so on
 
-Simple initialize function initializes array by strings with indicies of array.
+Simple initialize function initializes array by strings with indices of array.
 
 With D = 2 we have arr =
 
